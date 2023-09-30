@@ -255,6 +255,11 @@ h2 {
     font-size: 13px;
 
 }
+.foot-panel1:hover {
+    background-color:#446380 ;
+    cursor: pointer;
+    
+}
 
 .foot-panel2 {
     display: flex;
